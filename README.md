@@ -29,7 +29,7 @@ The objective of this project is to transform raw e-commerce data into meaningfu
 
 ## 📊 Dashboard Preview
 
-![Olist E-Commerce Sales Dashboard](https://github.com/sundaritewari/OLIST_ECOMMERS_SALES_ANALYSIS/blob/main/Olist_Ecommerces_Sales_Analysis_Github.xlsx%20-%20Copy.xlsx)
+![Olist E-Commerce Sales Dashboard](https://github.com/sundaritewari/OLIST_ECOMMERS_SALES_ANALYSIS/blob/main/Olist_Dashboard_NEW.png.png)
 
 ## 📈 Dashboard Analysis
 
